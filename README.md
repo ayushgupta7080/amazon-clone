@@ -80,4 +80,4 @@ amazon-clone/
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out my other projects on [GitHub](https://github.com/your-username).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out my other projects on [GitHub](https://github.com/ayushgupta7080).
