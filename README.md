@@ -59,7 +59,7 @@ amazon-clone/
 
 ## 🌐 Live Demo
 
-[🔗 View on GitHub Pages](https://ayushgupta7080/amazon-clone/) 
+[🔗 View on GitHub Pages](https://github.com/ayushgupta7080/amazon-clone)
 
 ---
 
